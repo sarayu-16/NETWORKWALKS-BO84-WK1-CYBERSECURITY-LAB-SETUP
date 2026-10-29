@@ -2,8 +2,6 @@
 
 A safe practice lab on my laptop using **VirtualBox** and **Kali Linux** (an operating system with security tools). I can learn scanning and testing here without harming real systems.
 
-> **Ethical use:** Only test machines that I own or have clear permission to test. This lab is for learning only.
-
 ---
 
 ## Lab Setup
