@@ -29,6 +29,23 @@ A safe practice lab on my laptop using **VirtualBox** and **Kali Linux** (an ope
 
 ---
 
+## images of workdone
+
+<p align="center">
+  <img src="image1.jpeg" width="700" alt="NAT Network configuration">
+</p>
+
+<p align="center">
+  <img src="image2.jpeg" width="700" alt="Kali Linux VM details">
+</p>
+
+<p align="center">
+  <img src="image3.jpeg" width="700" alt="Kali Linux login screen">
+</p>
+
+<p align="center">
+  <img src="image4.jpeg" width="700" alt="ip addr, ip route and ping output">
+</p>
 
 
 ## How I Checked It Works
